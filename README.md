@@ -15,8 +15,8 @@ You should have anaconda package already installed on your host PC. If not, visi
 Clone this repository by running the following commands on the terminal,
 
 ```
-git clone <this_repository>
-cd <this_repository>
+git clone https://github.com/Ahmed-Mujtaba-98/Image-Classification-Pytorch-CIFAR.git
+cd Image-Classification-Pytorch-CIFAR
 ```
 Setup conda environment,
 
